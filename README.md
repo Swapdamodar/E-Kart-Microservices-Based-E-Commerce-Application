@@ -6,7 +6,7 @@
 [![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2023.0.0-blue.svg)](https://spring.io/projects/spring-cloud)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A production-grade, distributed microservices system engineered using **Java 21** and **Spring Boot 3.2.4**. This ecosystem demonstrates reactive API Gateway routing, dynamic service discovery, inter-service resilience, distributed tracing, and centralized persistence.
+A production-grade, distributed microservices system engineered using **Java 21** and **Spring Boot 4.1.1**. This ecosystem demonstrates reactive API Gateway routing, dynamic service discovery, inter-service resilience, distributed tracing, and centralized persistence.
 
 ---
 
